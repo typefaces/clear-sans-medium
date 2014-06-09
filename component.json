@@ -1,0 +1,13 @@
+{
+  "name": "clear-sans-medium",
+  "repo": "typefaces/clear-sans-medium",
+  "description": "The clear-sans-medium typeface.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "styles": ["index.css"],
+  "fonts": [
+    "clear-sans-medium.eot",
+    "clear-sans-medium.ttf",
+    "clear-sans-medium.woff"
+  ]
+}

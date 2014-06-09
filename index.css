@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'Clear Sans';
+  src: url('fonts/clear-sans-medium.eot');
+  src: url('fonts/clear-sans-medium.eot?#iefix') format('embedded-opentype'),
+       url('fonts/clear-sans-medium.woff') format('woff'),
+       url('fonts/clear-sans-medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
