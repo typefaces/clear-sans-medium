@@ -2,7 +2,7 @@
   "name": "clear-sans-medium",
   "repo": "typefaces/clear-sans-medium",
   "description": "The clear-sans-medium typeface.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "license": "MIT",
   "styles": [
     "index.css"
