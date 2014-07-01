@@ -6,8 +6,8 @@
   "license": "MIT",
   "styles": ["index.css"],
   "fonts": [
-    "clear-sans-medium.eot",
-    "clear-sans-medium.ttf",
-    "clear-sans-medium.woff"
+    "fonts/clear-sans-medium.eot",
+    "fonts/clear-sans-medium.ttf",
+    "fonts/clear-sans-medium.woff"
   ]
 }
